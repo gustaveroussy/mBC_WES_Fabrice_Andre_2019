@@ -22,7 +22,9 @@ Alicia TRAN DIEN : ALICIA.TRAN-DIEN@gustaveroussy.fr
 
 
 1) Send a request to Fabrice ANDRE and Alicia TRAN DIEN with :
+
     a) your github username;
+
     b) the policy form below signed;
     
 
