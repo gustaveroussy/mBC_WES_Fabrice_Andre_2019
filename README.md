@@ -20,7 +20,7 @@ Alicia TRAN DIEN : ALICIA.TRAN-DIEN@gustaveroussy.fr
 
 ## Data access procedure
 
-
+**Github access** 
 1) Send a request to Fabrice ANDRE and Alicia TRAN DIEN with :
 
     a) your github username;
@@ -36,6 +36,15 @@ https://github.com/gustaveroussy/mBC_WES_Fabrice_Andre_2019_private
 **Please note** : if you do not follow this procedure, you will get a broken link with a 404 error. 
 
 <br><br>
+
+**EGA** 
+Data access decisions can be passed to the EGA in two ways:
+1) By emailing helpdesk@ega-archive.org with the email address of each applicant and confirmation of the dataset/s to provide access. EGA will then create an EGA account with the relevant access permissions.
+
+2) By using the EGA DAC Admin tools (available to DAC's dealing with more than 5 data access applications/month). Further information on the DAC admin tools and how to access them can be found here: https://ega-archive.org/submission/dac/tools
+
+**Please note** : if you are located outside of the EU, you also need to send us a charter regarding data security and protection implemented in your facilities.
+
 
 ## Data access Policy
 
