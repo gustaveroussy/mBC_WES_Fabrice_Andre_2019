@@ -38,6 +38,7 @@ https://github.com/gustaveroussy/mBC_WES_Fabrice_Andre_2019_private
 <br><br>
 
 **EGA** 
+
 Data access decisions can be passed to the EGA in two ways:
 1) By emailing helpdesk@ega-archive.org with the email address of each applicant and confirmation of the dataset/s to provide access. EGA will then create an EGA account with the relevant access permissions.
 
