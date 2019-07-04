@@ -2,9 +2,14 @@
 <br><br>
 
 Dear data users,
+
 Thank you for your interest in our work. In this document you will find
 - the procedure to have access to the github publication data
 - the data access policy form to be signed
+- the confidentiality form to be signed
+- the CNIL form to be signed (for more info : https://www.cnil.fr/en/data-protection-around-the-world)
+
+
 Please do not hesitate to contact us (see email below), if you have any
 further questions.
 
