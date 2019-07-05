@@ -5,9 +5,7 @@ Dear data users,
 
 Thank you for your interest in our work. In this document you will find
 - the procedure to have access to the github and EGA publication data
-- the data access policy form to be signed
-- the confidentiality form to be signed
-- the CNIL form to be signed (for more info : https://www.cnil.fr/en/data-protection-around-the-world)
+- the data access policy describing the documents to be send
 
 
 Please do not hesitate to contact us (see email below), if you have any
@@ -51,6 +49,7 @@ Data access decisions can be passed to the EGA in two ways:
 
 **Please note** : if you are located outside of the EU, you also need to send us a charter regarding data security and protection implemented in your facilities.
 
+<br><br><br><br>
 
 ## Data access Policy
 
@@ -86,17 +85,12 @@ Gustave Roussy's DAC is responsible for authorizing access to the data.
 
 The data access request requires:
 
-- A summary of the study, research or evaluation according to the form
-decided by Gustave Roussy;
-
-- A scientific protocol including at least the details requested in the form;
+- A summary of the study;
 
 - The authorization decision of the National Commission for Information and
 Freedoms (Cnil) or a commitment to comply with a reference methodology
 published by Cnil signed by the data protection officer or by the legal
 representative of the requesting entity;
-
-- The list of funders of the study, if any;
 
 - The opinion issued by the scientific and / or ethical committee that
 evaluated the project and the composition of the committee (s), if any;
