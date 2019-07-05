@@ -21,7 +21,7 @@ Alicia TRAN DIEN : ALICIA.TRAN-DIEN@gustaveroussy.fr
 
 <br><br><br><br>
 
-## Data access procedure
+## I) Data access procedure
 
 **Github access** 
 1) Send a request to Fabrice ANDRE and Alicia TRAN DIEN with :
@@ -51,7 +51,7 @@ Data access decisions can be passed to the EGA in two ways:
 
 <br><br><br><br>
 
-## Data access Policy
+## II) Data access Policy
 
 <br>
 
