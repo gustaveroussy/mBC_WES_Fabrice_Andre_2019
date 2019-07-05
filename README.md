@@ -5,7 +5,7 @@ Dear data users,
 
 Thank you for your interest in our work. In this document you will find
 - the procedure to have access to the github and EGA publication data
-- the data access policy describing the documents to be send
+- the data access policy describing the documents to be sent
 
 
 Please do not hesitate to contact us (see email below), if you have any
