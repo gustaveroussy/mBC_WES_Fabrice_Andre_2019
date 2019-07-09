@@ -3,9 +3,23 @@
 
 Dear data users,
 
-Thank you for your interest in our work. In this document you will find
-- the procedure to have access to the github and EGA publication data
-- the data access policy describing the documents to be sent
+Thank you for your interest in our work. In this github you will find :
+
+1) the procedure to have access to the github and EGA publication data
+
+2) the documents to be downloaded and sent back to us :
+
+    - STUDY_SYNOPSIS.docx = the template for the summary of the study ;
+
+    - CNIL declaration.pdf = fill it and we will take care of the submission for you;
+    
+    - CNIL declaration guidelines.pdf = Help to fill the CNIL deplaration.pdf
+    
+    - Data transfer EC contractual clauses-EN.doc 
+
+    - Confidentiality_form_Gustave_Roussy.doc 
+
+    - Data_access_policy.doc 
 
 
 Please do not hesitate to contact us (see email below), if you have any
@@ -85,22 +99,19 @@ Gustave Roussy's DAC is responsible for authorizing access to the data.
 
 The data access request requires:
 
-- A summary of the study;
+- A summary of the study (synopsis template on github) : it can be very light: we just need to know the general question that is going to be addressed;
 
-- The authorization decision of the National Commission for Information and
-Freedoms (Cnil) or a commitment to comply with a reference methodology
-published by Cnil signed by the data protection officer or by the legal
-representative of the requesting entity;
+- The CNIL declaration (on github) : we can take care of the submission part to the CNIL, once we receive it;
 
-- The opinion issued by the scientific and / or ethical committee that
-evaluated the project and the composition of the committee (s), if any;
+- The standard contractual clauses signed (on github) if your country is located outside of the European Community (check if your country is concerned : https://www.cnil.fr/en/data-protection-around-the-world)
 
-- The confidentiality form;
+- The opinion issued by an Institution Review Board / or ethical committee that evaluated the project and the composition of the committee(s), if any;
 
-- The documentation necessary to demonstrate compliance with all its data
-protection and security obligations;
+- The confidentiality form (on github);
 
-- This policy signed
+- The documentation necessary to demonstrate compliance with all its data protection and security obligations (a security charter);
+
+- This data access policy signed
 
 <br><br>
     *Article II.2 Application procedures*
