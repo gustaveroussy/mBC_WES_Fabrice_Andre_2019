@@ -22,7 +22,8 @@ Thank you for your interest in our work. In this github you will find :
     - Data_access_policy.doc 
 
 
-Please do not hesitate to contact us (see email below), if you have any further questions.
+For more informations regarding the documents to send, please read our data access policy.
+If you have any further questions, we will be glad to help you go through the process.
 
 <br>
 Sincerely,
