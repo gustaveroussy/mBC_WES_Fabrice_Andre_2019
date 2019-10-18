@@ -33,7 +33,6 @@ Fabrice ANDRE : FABRICE.ANDRE@gustaveroussy.fr
 
 Marta JIMENEZ : m-jimenez@unicancer.fr
 
-Alicia TRAN DIEN : ALICIA.TRAN-DIEN@gustaveroussy.fr
 
 <br><br><br><br>
 
