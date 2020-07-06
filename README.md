@@ -19,7 +19,9 @@ Thank you for your interest in our work. In this github you will find :
 
     - Confidentiality_form_Gustave_Roussy.doc 
 
-    - Data_access_policy.doc 
+    - Data_access_policy.doc
+    
+    - If you are outside of the EU, please send us a document to demonstrate compliance with data protection and security
 
 
 For more informations regarding the documents to send, please read our data access policy.
